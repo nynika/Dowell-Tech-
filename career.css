@@ -746,6 +746,7 @@ img {
 }
 .reviewicon{
   position: absolute;
+    top:5px;
   right: 2rem;
   left: 4rem;
   height: 20px;
